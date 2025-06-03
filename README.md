@@ -1,4 +1,4 @@
-# Allianz_machine_learning_project
+# Allianz Client Investment Predictions
 
 This repository contains the deliverables for the Allianz Predictive Analytics course project, which aims to develop a data-driven strategy to optimize weekly client outreach. The core goal is to identify and prioritize the 1,500 most promising clients (from a weekly pool of ~7,500 leads) based on their investment potential.
 
